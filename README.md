@@ -20,10 +20,10 @@ Notebook demonstrating the usage and functionality of functions in the `my_funct
 The `SSR_GFDL_ESM4.pickle` is used as an example time series to illustrate the `Compute_SREs` function.
 
 ### `Get_Data_Local.py`
-Script loading CMIP6 time series for a grid box containing a specific location
+Script loading CMIP6 time series for a grid box containing a specific location.
 
 ### `Get_PV_Power.py`
-Script that computes the daily PV power generation of a specific PV installation from a daily mean SSR time series
+Script that computes the daily PV power generation of a specific PV installation from a daily mean SSR time series.
 
 ### `Get_SREs_maps.py`
 Script that generates maps that quantify the SREs occurrence for different SREs parameters based on CMIP6 piControl data.
