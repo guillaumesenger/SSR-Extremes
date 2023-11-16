@@ -52,9 +52,6 @@ Notebook analyzing Cumulative Radiation Events (CREs) for a particular grid box.
 ## License
 [Specify the license for your scripts, if any.]
 
-## Contribution
-[Include guidelines for contributions, if applicable.]
-
 ## Contact
 Guillaume Senger, ETH Zürich, guillaume.senger@usys.ethz.ch
 
