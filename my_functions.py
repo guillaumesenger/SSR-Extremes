@@ -1,5 +1,5 @@
 '''
-This script contains all functions used in this repository. Please see the my_functions examples.ipynb notebook for examples of use.
+This script contains all functions used in this repository. Please see the my_functions_examples.ipynb notebook for examples of use.
 
 Copyright (c) 2023, ETH Zurich, Guillaume Senger
 '''
