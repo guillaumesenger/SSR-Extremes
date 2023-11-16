@@ -3,6 +3,12 @@
 ## Overview
 This repository contains scripts and notebooks related to the analysis of Surface Solar Radiation Extreme events.
 
+
+## Usage
+
+## Requirements
+
+
 ## Scripts
 
 ### `my_functions`
@@ -42,15 +48,6 @@ Notebook focusing on PV power production during extreme SSR days.
 
 ### `CREs_Local_Analysis.ipynb`
 Notebook analyzing Cumulative Radiation Events (CREs) for a particular grid box.
-
-## Description
-[Add your detailed description of the scripts and notebooks here. Explain their purpose, how they interact, and any dependencies.]
-
-## Getting Started
-[Include instructions on how to use or run the scripts/notebooks. Specify any prerequisites or setup needed.]
-
-## License
-[Specify the license for your scripts, if any.]
 
 ## Contact
 Guillaume Senger, ETH Zürich, guillaume.senger@usys.ethz.ch
