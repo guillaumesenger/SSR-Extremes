@@ -1,7 +1,7 @@
 # SSR-Extremes
 
 ## Overview
-This repository contains scripts and notebooks related to SSR (Surface Solar Radiation) extremes analysis.
+This repository contains scripts and notebooks related to the analysis of Surface Solar Radiation Extreme events.
 
 ## Scripts
 
@@ -12,13 +12,13 @@ Folder containing custom functions used across multiple notebooks and scripts.
 Notebook demonstrating the usage and functionality of functions in the `my_functions` folder.
 
 ### `Get_Data_Local.py`
-Script for fetching local SSR data.
+Script loading CMIP6 time series for a grid box containing a specific location
 
 ### `Get_PV_Power.py`
-Script for extracting PV (Photovoltaic) power-related data.
+Script that computes the daily PV power generation of a specific PV installation from a daily mean SSR time series
 
 ### `Get_SREs_maps.py`
-Script for generating maps related to SSR extreme events.
+Script that generates maps that quantify the SREs occurrence for different SREs parameters based on CMIP6 piControl data.
 
 ## Notebooks
 
