@@ -1,11 +1,11 @@
 # SSR-Extremes
 
 ## Overview
-This repository contains scripts and notebooks related to the analysis of Surface Solar Radiation Extreme (SSR) events.
+This repository contains scripts and notebooks related to the analysis of Surface Solar Radiation Extreme (SSR) extreme events.
 
 ## Usage
 
-Each notebook corresponds to a specific analysis and uses functions from the `my_functions` folder. All the data can be generated using the `Get_....py` scripts.
+Each notebook corresponds to a specific analysis and uses functions from the `my_functions` folder. All the data can be generated using functions from the `my_functions` folder and the following scripts: `Get_Data_Local.py`, `Get_PV_Power.py`, and `Get_SREs_maps.py`.
 
 ## Requirements
 
