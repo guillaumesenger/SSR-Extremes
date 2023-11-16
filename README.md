@@ -23,25 +23,25 @@ Script that generates maps that quantify the SREs occurrence for different SREs 
 ## Notebooks
 
 ### `SSR_Overview.ipynb`
-Notebook providing an overview of Surface Solar Radiation data.
+Notebook providing an overview of SSR statistics for different data sets.
 
 ### `SREs_Local_Analysis.ipynb`
-Notebook analyzing local SSR extreme events.
+Notebook analyzing Sustained Radiation Events (SREs) for a particular grid box.
 
 ### `SREs_Global_Analysis.ipynb`
-Notebook analyzing global SSR extreme events.
+Notebook analyzing SREs on a global scale.
 
 ### `SREs_PV_Power_Analysis.ipynb`
-Notebook analyzing SSR extremes in correlation with PV power.
+Notebook analyzing the relationship between SSR and PV power during SREs.
 
 ### `SREs_SLP_Analysis.ipynb`
-Notebook analyzing SSR extremes in relation to Sea Level Pressure.
+Notebook analyzing sea-level pressure in relation to SREs.
 
 ### `PV_extreme_days.ipynb`
-Notebook focusing on extreme days for Photovoltaic power generation.
+Notebook focusing on PV power production during extreme SSR days.
 
 ### `CREs_Local_Analysis.ipynb`
-Notebook analyzing local Cloud-related Extreme events.
+Notebook analyzing Cumulative Radiation Events (CREs) for a particular grid box.
 
 ## Description
 [Add your detailed description of the scripts and notebooks here. Explain their purpose, how they interact, and any dependencies.]
@@ -56,5 +56,5 @@ Notebook analyzing local Cloud-related Extreme events.
 [Include guidelines for contributions, if applicable.]
 
 ## Contact
-[Provide contact information or links for inquiries or help.]
+Guillaume Senger, ETH Zürich, guillaume.senger@usys.ethz.ch
 
