@@ -1,10 +1,11 @@
 # SSR-Extremes
 
 ## Overview
-This repository contains scripts and notebooks related to the analysis of Surface Solar Radiation Extreme events.
-
+This repository contains scripts and notebooks related to the analysis of Surface Solar Radiation Extreme (SSR) events.
 
 ## Usage
+
+Each notebook corresponds to a specific analysis and uses functions from the `my_functions` folder. All the data 
 
 ## Requirements
 
@@ -15,7 +16,8 @@ This repository contains scripts and notebooks related to the analysis of Surfac
 Folder containing custom functions used across multiple notebooks and scripts.
 
 ### `my_functions_examples.ipynb`
-Notebook demonstrating the usage and functionality of functions in the `my_functions` folder.
+Notebook demonstrating the usage and functionality of functions in the `my_functions` folder. 
+The `SSR_GFDL_ESM4.pickle' is used as an example time series to illustrate the `Compute_SREs` function from the `my_functions` folder.
 
 ### `Get_Data_Local.py`
 Script loading CMIP6 time series for a grid box containing a specific location
