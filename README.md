@@ -11,12 +11,24 @@ Each notebook corresponds to a specific analysis and uses functions from the `my
 
 The Python package versions utilized are as follows:
 
-`numpy` version 1.22.3
+`numpy`      version 1.22.3
 
 `matplotlib` version 3.5.1
 
-`netcdf4` version 1.5.7
+`netcdf4`    version 1.5.7
 
+`pandas`     version 1.4.1
+
+`xarray`     version 2022.3.0
+
+`scipy`      version 1.8.0
+
+`cartopy`    version 0.20.0
+
+`seaborn`    version 0.11.2
+
+For all requirements related to GSEE, visit: gsee.readthedocs.io/
+    
 ## Scripts
 
 ### `my_functions`
