@@ -17,7 +17,7 @@ Folder containing custom functions used across multiple notebooks and scripts.
 
 ### `my_functions_examples.ipynb`
 Notebook demonstrating the usage and functionality of functions in the `my_functions` folder. 
-The `SSR_GFDL_ESM4.pickle` is used as an example time series to illustrate the `Compute_SREs` function.
+The `SSR_GFDL_ESM4.pickle` is used as an example time series to illustrate the `def Compute_SREs():` function.
 
 ### `Get_Data_Local.py`
 Script loading CMIP6 time series for a grid box containing a specific location.
