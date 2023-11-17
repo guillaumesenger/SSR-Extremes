@@ -1,5 +1,7 @@
 # SSR-Extremes
 
+Guillaume Senger, ETH Zürich, guillaume.senger@usys.ethz.ch
+
 ## Overview
 This repository contains scripts and notebooks related to the analysis of Surface Solar Radiation Extreme (SSR) extreme events.
 
@@ -77,7 +79,3 @@ Notebook focusing on PV power production during extreme SSR days.
 
 ### `CREs_Local_Analysis.ipynb`
 Notebook analyzing Cumulative Radiation Events (CREs) for a particular grid box.
-
-## Contact
-Guillaume Senger, ETH Zürich, guillaume.senger@usys.ethz.ch
-
