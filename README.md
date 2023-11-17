@@ -12,8 +12,10 @@ Each notebook corresponds to a specific analysis and uses functions from the `my
 The Python package versions utilized are as follows:
 
 `numpy` version 1.22.3
-matplotlib version 3.5.1
-netcdf4 version 1.5.7
+
+`matplotlib` version 3.5.1
+
+`netcdf4` version 1.5.7
 
 ## Scripts
 
