@@ -35,7 +35,7 @@ The Python package versions utilized are as follows:
 
 `seaborn`    version 0.11.2
 
-For all requirements related to GSEE, visit: gsee.readthedocs.io/
+For all requirements related to GSEE, visit: [gsee.readthedocs.io/](https://gsee.readthedocs.io/en/latest/)
     
 ## Scripts
 
