@@ -9,11 +9,11 @@ Each notebook corresponds to a specific analysis and uses functions from the `my
 
 ## Data
 
-Data from the Coupled Model Intercomparison Project - Phase 6 were used in the manuscript: Doi: 10.5194/gmd-9-1937-2016
+Data from the Coupled Model Intercomparison Project - Phase 6 were used in the manuscript: [Doi: 10.5194/gmd-9-1937-2016](https://doi.org/10.5194/gmd-9-1937-2016)
 
-The observational data can be obtained from the World Radiation Data Center (WRDC): Doi: 10.17616/R3N30Q 
+The observational data can be obtained from the World Radiation Data Center (WRDC): [Doi: 10.17616/R3N30Q ](http://doi.org/10.17616/R3N30Q)
 
-The estimated PV power production is calculated using GSEE: Global Solar Energy Estimator: Doi: 10.1016/j.energy.2016.08.060
+The estimated PV power production is calculated using GSEE: Global Solar Energy Estimator: [Doi: 10.1016/j.energy.2016.08.060](https://doi.org/10.1016/j.energy.2016.08.060)
 
 ## Requirements
 
