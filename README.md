@@ -7,6 +7,14 @@ This repository contains scripts and notebooks related to the analysis of Surfac
 
 Each notebook corresponds to a specific analysis and uses functions from the `my_functions` folder. All the data can be generated using functions from the `my_functions` folder and the following scripts: `Get_Data_Local.py`, `Get_PV_Power.py`, and `Get_SREs_maps.py`.
 
+## Data
+
+Data from the Coupled Model Intercomparison Project - Phase 6 were used in the manuscript: Doi: 10.5194/gmd-9-1937-2016
+
+The observational data can be obtained from the World Radiation Data Center (WRDC): Doi: 10.17616/R3N30Q 
+
+The estimated PV power production is calculated using GSEE: Global Solar Energy Estimator: Doi: 10.1016/j.energy.2016.08.060
+
 ## Requirements
 
 The Python package versions utilized are as follows:
