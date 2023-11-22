@@ -43,7 +43,7 @@ Regarding `cmip6_basic_tools` package, see : https://gitlab.com/mjade/cmip6_basi
     
 ## Scripts
 
-### `my_functions`
+### `my_functions.py`
 Folder containing custom functions used across multiple notebooks and scripts.
 
 ### `my_functions_examples.ipynb`
